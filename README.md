@@ -41,6 +41,6 @@ This repository also includes various UML and flow diagrams to represent the str
 Contributions to the DNACipher project are welcome. Please read the contributing guidelines before submitting your changes.
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/DNACipher.git
+git clone https://github.com/blamairia/DNACipher.git
 
 
