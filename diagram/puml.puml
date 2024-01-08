@@ -1,0 +1,10 @@
+@startuml
+start
+:Input Encrypted Text;
+:Decrypt with Hill Cipher;
+:Convert Amino Acid to DNA;
+:Convert DNA to Binary;
+:Convert Binary to Text;
+:Display Decrypted Text;
+stop
+@enduml
